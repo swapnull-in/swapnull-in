@@ -10,6 +10,15 @@ Here are a few technologies I've been working with recently:
 
 I am currently learning, SwiftUI
 
+You can ask me about Android or iOS Application Development
+
+You can reach me via
+- [Twitter](https://twitter.com/swapnull_in) 
+- [LinkedIn](https://www.linkedin.com/in/swapnull)
+- [Facebook](https://www.facebook.com/swapnil.go20)
+
+
+
 Attendee, Google I/O 2019, Apple WWDC 2019, CES 2019 & CES 2020.
 
 <!--
