@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello! I'm Swapnil Godambe 👋
+
+I'm an Engineering Manager, Entrepreneur based in Mumbai, IN specializing in building exceptional, high-quality mobile applications & software platforms.
+
+Here are a few technologies I've been working with recently:
+- Android
+- iOS
+- Kotlin
+- Swift 
+
+I am currently learning, SwiftUI
+
+Attendee, Google I/O 2019, Apple WWDC 2019, CES 2019 & CES 2020.
 
 <!--
 **swapnull-in/swapnull-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
