@@ -1,6 +1,6 @@
 ### Hello! I'm Swapnil Godambe 👋
 
-I'm an Engineering Manager, Entrepreneur based in Mumbai, IN specializing in building exceptional, high-quality mobile applications & software platforms.
+I'm an Engineering Manager based in Mumbai, IN specializing in building exceptional, high-quality mobile applications & software platforms.
 
 Here are a few technologies I've been working with recently:
 - Android
@@ -16,8 +16,6 @@ You can reach me via
 - [Twitter](https://twitter.com/swapnull_in) 
 - [LinkedIn](https://www.linkedin.com/in/swapnull)
 - [Facebook](https://www.facebook.com/swapnil.go20)
-
-
 
 Attendee, Google I/O 2019, Apple WWDC 2019, CES 2019 & CES 2020.
 
