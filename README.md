@@ -1,16 +1,18 @@
 ### Hello! I'm Swapnil Godambe 👋
 
-I'm an Engineering Manager based in Mumbai, IN specializing in building exceptional, high-quality mobile applications & software platforms.
+I'm an Engineering Manager based in Mumbai, IN specializing in building exceptional, high-quality mobile apps & world class platforms.
 
 🔭 Here are a few technologies I've been working with recently:
+- JavaScript (ES13)
+- Node.js
 - Android
 - iOS
 - Kotlin
-- Swift 
+- SwiftUI
 
-🌱 I am currently learning, SwiftUI
+🌱 I am currently learning about distributed systems.
 
-💬 You can ask me about Android or iOS Application Development
+💬 You can ask me about Backend, Android or iOS Development
 
 📫 You can reach me via
 - [Twitter](https://twitter.com/swapnull_in) 
