@@ -15,8 +15,8 @@ I'm an Engineering Manager based in Mumbai, IN specializing in building exceptio
 💬 You can ask me about Backend, Android or iOS Development
 
 📫 You can reach me via
-- [Twitter](https://twitter.com/swapnull_in) 
 - [LinkedIn](https://www.linkedin.com/in/swapnull)
+- [Twitter](https://twitter.com/swapnull_in) 
 - [Facebook](https://www.facebook.com/swapnil.go20)
 
 ⚡ Attendee, Google I/O 2019, Apple WWDC 2019, CES 2019 & CES 2020.
