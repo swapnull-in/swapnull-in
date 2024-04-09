@@ -1,18 +1,13 @@
-### Hello! I'm Swapnil Godambe 👋
+### Hello! I'm Swapnil Godambe 
 
-I'm an Engineering Manager based in Mumbai, IN specializing in building exceptional, high-quality mobile apps & world class platforms.
+Currently working as a Director of Engineering at my current company Axis Bank DBAT | Freecharge.
+My main focus these days is building financial products and digital experiences. 
 
-🔭 Here are a few technologies I've been working with recently:
-- JavaScript (ES13)
-- Node.js
-- Android
-- iOS
-- Kotlin
-- SwiftUI
+Previously, co-founded consultancy company - The Observatory specialised in Mobile Apps and Web Applications. We built initial version of Servify and later got acquired by Servify.
 
-🌱 I am currently learning about distributed systems.
+Servify (curretly valued, $800 Mn) is startup based out of Mumbai. Specialised in after sales and digital insurance. Was a core-team member and worked closely with founder. Lead the engineering team and built the product from concept to global launch. Hired and trained team from 0 to 50. Worked closely with all the business functions.
 
-💬 You can ask me about Backend, Android or iOS Development
+Prior to that worked on building Mobile Apps and platforms at Wolters Kluwer | Medknow & mobile apps development firm
 
 📫 You can reach me via
 - [LinkedIn](https://www.linkedin.com/in/swapnull)
