@@ -1,6 +1,6 @@
 ### Hello! I'm Swapnil Godambe 👋
 
-🔭 Currently working as a Director of Engineering at my current company Axis Bank DBAT | Freecharge. 
+🔭 Currently working as a Director of Engineering at Axis Bank DBAT | Freecharge. 
 
 🎯 My main focus these days is building financial products and digital experiences. 
 
